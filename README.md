@@ -19,8 +19,12 @@ Contributions are welcome! Feel free to submit a **pull request** or open an **i
 ## Ideal For:
 - Students studying linear algebra  
 - Researchers solving mathematical problems  
-- Developers combining programming and mathematics  
-
+- Developers combining programming and mathematics
+- 
+## Development Environment:
+- 🖥️ Programming Language: C#
+-🛠️ Integrated Development Environment (IDE): Visual Studio
+  
 ## Getting Started:
 ### Clone the repository:
 ```bash
