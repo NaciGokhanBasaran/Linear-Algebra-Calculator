@@ -22,9 +22,9 @@ Contributions are welcome! Feel free to submit a **pull request** or open an **i
 - Developers combining programming and mathematics
 - 
 ## Development Environment:
-- 🖥️ Programming Language: C#
--🛠️ Integrated Development Environment (IDE): Visual Studio
-  
+- 🖥️ **Programming Language**: C#  
+- 🛠️ **Integrated Development Environment (IDE)**: Visual Studio
+
 ## Getting Started:
 ### Clone the repository:
 ```bash
